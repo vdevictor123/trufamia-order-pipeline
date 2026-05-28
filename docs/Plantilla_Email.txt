@@ -1,0 +1,75 @@
+ASUNTO: PEDIDO TRUFAMIA
+
+──────────────────────────────────────
+Fecha de pedido: dd/mm/YY (opcional)
+Fecha de entrega: dd/mm/YY (opcional)
+Nombre: [nombre completo del cliente]
+Telefono: [número, ej: 666123456]
+Canal: [WhatsApp / Instagram / En persona]
+Pago: [Bizum / Efectivo]
+Caja: [4 / 8 / 15 / 16 / 25 / 35 / 100]
+
+Sabores: [solo pon el numero de los bombones que hay por pedido]
+Coco:
+Chocolate con leche:
+Chocolate blanco:
+Chocolate 50%:
+Maracuya:
+Limon:
+Churros:
+Ferrero Rocher:
+Oreo:
+Leche nido con Nutella:
+Sorpresa de uva:
+Queso Mahon con dulce de guayaba:
+Chocolate belga:
+Prestigio:
+Casadinho:
+Fresa:
+Pistacho:
+Caramelo salado:
+
+Notas:
+──────────────────────────────────────
+
+INSTRUCCIONES:
+- Rellena solo los campos que aplican
+- En Sabores: escribe el numero de bombones de cada sabor
+- Borra los sabores que no lleve la caja (o ponles 0)
+- La suma de bombones debe coincidir con el tamaño de caja
+- Canal: WhatsApp / WS / Instagram / IG / En persona
+- Pago: Bizum / BIZ / Efectivo / Cash
+- Caja: 4 / 8 / 15 / 16 / 25 / 35 / 100
+
+EJEMPLO PEDIDO:
+──────────────────────────────────────
+Fecha de pedido: 17/05/2026
+Fecha de entrega: 21/05/2026
+Nombre: Test Cliente
+Telefono: 600000000
+Canal: WhatsApp
+Pago: Bizum
+Caja: 25
+
+Sabores:
+Coco: 5
+Chocolate con leche: 5
+Chocolate blanco: 5
+Chocolate 50%:
+Maracuya:
+Limon:
+Churros:
+Ferrero Rocher: 5
+Oreo: 5
+Leche nido con Nutella:
+Sorpresa de uva:
+Queso Mahon con dulce de guayaba:
+Chocolate belga:
+Prestigio:
+Casadinho:
+Fresa:
+Pistacho:
+Caramelo salado:
+
+Notas: Sin frutos secos
+──────────────────────────────────────
